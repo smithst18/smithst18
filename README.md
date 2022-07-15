@@ -9,11 +9,10 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular","Vue"],
-         css: ["Materialize", "Tailwind", "Bootstrap", "Material Design"]
+         css: ["Tailwind", "Bootstrap", "Material Design"]
       },
       backEnd: {
-         js: ["Node", "Express","Nest"],
-         misc: ["Bash"]
+         js: ["Node", "Express","Nest","Sequelize","Mongoose"],
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
       mobile: ["Android", "IOS"]
