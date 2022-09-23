@@ -2,6 +2,7 @@
 <h3>A fullstack developer :mechanical_arm:</h3>
 
 <h3>About me:  🐱‍🏍</h3>
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
