@@ -8,14 +8,14 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular","Vue"],
-         css: ["Tailwind", "Bootstrap", "Material Design"]
+         js: ["Angular","Vue"],
+         css: ["Tailwind", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express","Nest","Sequelize","Mongoose"],
+         js: ["Node", "Express","Sequelize","Mongoose"],
+         py: ["django"],
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
-      mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Fullstack Developer, open for job opportunities"],
 };
