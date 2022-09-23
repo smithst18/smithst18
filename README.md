@@ -13,7 +13,6 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express","Sequelize","Mongoose"],
-         typescript:["typeOrm"]
          py: ["django"],
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
