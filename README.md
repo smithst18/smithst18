@@ -5,7 +5,7 @@
 const aboutMe = {
    pronouns: "he" | "him",
    langs:["English","Spanish"],
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript, Python, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["Angular","Vue"],
