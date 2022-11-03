@@ -7,7 +7,7 @@
 const aboutMe = {
    pronouns: "he" | "him",
    langs:["English","Spanish"],
-   code: [Javascript, Typescript, Python, HTML, CSS],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["Angular","Vue"],
@@ -15,7 +15,6 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express","Sequelize","Mongoose"],
-         py: ["django"],
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
    },
