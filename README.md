@@ -34,7 +34,7 @@ const aboutMe = {
 <h3 align="left">Some Proyects  :wrench: :</h3>
 <ul>
    <li><a href="https://github.com/smithst18/SGT">SGT 🚀</a></li>
-   <li><a href="https://github.com/smithst18/SGT">ADIF 🛒</a></li>
+   <li><a href="https://github.com/smithst18/front-inventario-facturacion">ADIF 🛒</a></li>
 </ul>
 
 
