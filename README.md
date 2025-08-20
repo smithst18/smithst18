@@ -9,8 +9,8 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["Angular","Vue"],
-         css: ["Tailwind", "Bootstrap"]
+         js: ["React","Vue"],
+         css: ["Tailwind", "Bootstrap","Antdesign"]
       },
       backEnd: {
          js: ["Node", "Express","Sequelize","Mongoose"],
